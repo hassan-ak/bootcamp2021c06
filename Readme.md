@@ -1,8 +1,15 @@
 # Publishing Packages on NPM
 
+Setup a new user Account: https://www.npmjs.com/
+
 Reading Material:
 
 - [Publishing Packages on NPM Code](https://github.com/panacloud/bootcamp-2021/tree/main/code/npm-publish)
+
+- Publish Scoped Public Local Packages
+  - https://docs.npmjs.com/creating-and-publishing-scoped-public-packages
+  - npm adduser
+  - npm publish --access public
 
 Class 6 Videos: Publishing Packages on NPM
 
