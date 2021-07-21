@@ -1,0 +1,17 @@
+{
+  "name": "testingnpmpackage",
+  "version": "1.0.0",
+  "description": "Testing Deployed npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassan Ali Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.3.3"
+  },
+  "dependencies": {
+    "@hassan-ak/npmtestpackage": "^1.0.0"
+  }
+}
