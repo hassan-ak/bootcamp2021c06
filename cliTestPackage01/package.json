@@ -1,0 +1,15 @@
+{
+  "name": "clitestpackage01",
+  "version": "1.0.1",
+  "description": "Test CLI Package",
+  "main": "./lib/great.js",
+  "bin": {"great" : "./bin/index.js"},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassan Ali Khan",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^16.4.0"
+  }
+}
