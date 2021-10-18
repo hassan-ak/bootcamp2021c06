@@ -1,4 +1,4 @@
-# Publishing Packages on NPM
+# bootcamp2021c06 - Publishing Packages on NPM
 
 ## Publishing Packages
 
