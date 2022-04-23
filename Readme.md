@@ -1,6 +1,9 @@
-# bootcamp2021c06 - Publishing Packages on NPM
+# bootcamp2021c06 - Fast Track Review of TypeScript - Publishing Packages - Publishing Packages on NPM
 
-## Publishing Packages
+## Publishing Packages on NPM
+- Publish packages on NPM
+  - as local package
+  - as global package 
 
 ### Sections
 
